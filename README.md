@@ -1,7 +1,7 @@
 # Wordle app
 # Project 1 - *Wordle*
 
-Submitted by: **Xiaoran**
+Submitted by: **Xiaoran Liu**
 
 **Wordle** is an app that let you guess a word withi 5 chances!
 
