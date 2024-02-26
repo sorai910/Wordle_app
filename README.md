@@ -3,7 +3,7 @@
 
 Submitted by: **Xiaoran**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle** is an app that let you guess a word withi 5 chances!
 
 Time spent: **2** hours spent in total
 
