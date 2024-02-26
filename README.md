@@ -1,5 +1,5 @@
 # Wordle app
-# Project 1 - *Wordlee*
+# Project 1 - *Wordle*
 
 Submitted by: **Xiaoran**
 
