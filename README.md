@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Wordle app
-# Project 1 - *Wordle*
-=======
+
 # Project 2 - *Wordle*
 >>>>>>> a55ecca (project 2 updates)
 
